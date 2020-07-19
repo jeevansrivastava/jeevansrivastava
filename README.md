@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am Jeevan
+####  
+
+Skills: PHP/ PYTHON / NODEJS / AWS / ELASTIC SEARCH
 
 <!--
 **jeevansrivastava/jeevansrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
